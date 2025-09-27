@@ -16,7 +16,7 @@
     { "name": "ARTV Canal Parlamento (720p)", "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8" },
     { "name": "Famatv (1080p)", "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8" },
     { "name": "SIC (1080p)", "url": "https://sic.live.impresa.pt/sic.m3u8" },
-    { "name": "TVI (720p)", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8" }
+    { "name": "TVI (720p)", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8" },
   
 
     { "name": "Rádio Comercial", "url": "https://streaming-live.radiocomercial.iol.pt/rc-live.aacp" },
