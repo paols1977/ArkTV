@@ -1,4 +1,5 @@
-[
+{
+  "TV": [
     { "name": "Pluto TV Animales (288p)", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=" },
     { "name": "Classique TV (360p)", "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8" },
     { "name": "ElyTV (360p)", "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8" },
@@ -13,12 +14,10 @@
     { "name": "Pluto TV Antiques Roadshow UK (240p)", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=" },
     { "name": "Pluto TV Stand Up (360p)", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=" },
     { "name": "ADB TV (1080p)", "url": "https://customer-dxeagripmkqbhyeq.cloudflarestream.com/580c36d77be200bf5c7d3efc06487bd4/manifest/video.m3u8" },
-    { "name": "ARTV Canal Parlamento (720p)", "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8" },
-    { "name": "Famatv (1080p)", "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8" },
     { "name": "SIC (1080p)", "url": "https://sic.live.impresa.pt/sic.m3u8" },
-    { "name": "TVI (720p)", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8" },
-  
-
+    { "name": "TVI (720p)", "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8" }
+  ],
+  "Rádio": [
     { "name": "Rádio Comercial", "url": "https://streaming-live.radiocomercial.iol.pt/rc-live.aacp" },
     { "name": "RTP Antena 1", "url": "http://icecast.rtp.pt/antena1.mp3" },
     { "name": "RTP Antena 2", "url": "http://icecast.rtp.pt/antena2.mp3" },
@@ -30,7 +29,10 @@
     { "name": "M80 Rádio", "url": "http://streams.m80.iol.pt/m80-128k.mp3" },
     { "name": "Rádio Renascença", "url": "http://rr.rtp.pt/rr.mp3" },
     { "name": "Rádio Observador", "url": "http://streaming.rtp.pt/observador.mp3" },
-    { "name": "Rádio Sim", "url": "http://streaming.rtp.pt/sim.mp3" }
-    
+    { "name": "Rádio Sim", "url": "http://streaming.rtp.pt/sim.mp3" },
+    { "name": "Rádio Universidade de Coimbra", "url": "http://streaming.rtp.pt/ruco.mp3" },
+    { "name": "Rádio Universidade de Lisboa", "url": "http://streaming.rtp.pt/rul.mp3" },
+    { "name": "Rádio Universidade do Porto", "url": "http://streaming.rtp.pt/rup.mp3" },
+    { "name": "Rádio Universidade do Minho", "url": "http://streaming.rtp.pt/rum.mp3" }
   ]
-
+}
