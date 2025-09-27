@@ -246,5 +246,87 @@
   {
     "name": "Rakuten Família",
     "url": "https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8"
+  },
+
+  [
+  {
+    "name": "Rádio Comercial",
+    "url": "https://streaming-live.radiocomercial.iol.pt/rc-live.aacp"
+  },
+  {
+    "name": "RTP Antena 1",
+    "url": "http://icecast.rtp.pt/antena1.mp3"
+  },
+  {
+    "name": "RTP Antena 2",
+    "url": "http://icecast.rtp.pt/antena2.mp3"
+  },
+  {
+    "name": "RTP Antena 3",
+    "url": "http://icecast.rtp.pt/antena3.mp3"
+  },
+  {
+    "name": "Cidade FM",
+    "url": "http://streams.cidade.fm:8000/live.mp3"
+  },
+  {
+    "name": "Mega Hits",
+    "url": "http://stream.megahits.pt/live.mp3"
+  },
+  {
+    "name": "RFM",
+    "url": "http://streaming.radiom.com:8000/rfm.mp3"
+  },
+  {
+    "name": "TSF Rádio Notícias",
+    "url": "http://streaming.tsf.pt/tsf-aac"
+  },
+  {
+    "name": "M80 Rádio",
+    "url": "http://streams.m80.iol.pt/m80-128k.mp3"
+  },
+  {
+    "name": "Rádio Renascença",
+    "url": "http://rr.rtp.pt/rr.mp3"
+  },
+  {
+    "name": "Rádio Observador",
+    "url": "http://streaming.rtp.pt/observador.mp3"
+  },
+  {
+    "name": "Rádio Sim",
+    "url": "http://streaming.rtp.pt/sim.mp3"
+  },
+  {
+    "name": "Rádio Universidade de Coimbra",
+    "url": "http://streaming.rtp.pt/ruco.mp3"
+  },
+  {
+    "name": "Rádio Universidade de Lisboa",
+    "url": "http://streaming.rtp.pt/rul.mp3"
+  },
+  {
+    "name": "Rádio Universidade do Porto",
+    "url": "http://streaming.rtp.pt/rup.mp3"
+  },
+  {
+    "name": "Rádio Universidade do Minho",
+    "url": "http://streaming.rtp.pt/rum.mp3"
+  },
+  {
+    "name": "Cidade FM Norte",
+    "url": "http://streams.cidade.fm:8000/live.mp3"
+  },
+  {
+    "name": "Mega Hits Norte",
+    "url": "http://stream.megahits.pt/live.mp3"
+  },
+  {
+    "name": "RFM Norte",
+    "url": "http://streaming.radiom.com:8000/rfm.mp3"
+  },
+  {
+    "name": "TSF Norte",
+    "url": "http://streaming.tsf.pt/tsf-aac"
   }
 ]
